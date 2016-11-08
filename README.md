@@ -1,5 +1,7 @@
 # learning-nokogiri: Nokogiriの練習
 
+Test
+
 ## 始め方
 
 事前にVagrantにログインしておく。
